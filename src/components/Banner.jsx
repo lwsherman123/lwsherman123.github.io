@@ -2,7 +2,6 @@ import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
 import { ArrowRightCircle } from 'react-bootstrap-icons'
 import { useState, useEffect } from 'react'
-import { HashLink } from 'react-router-hash-link'
 
 
 const Banner = () => {
