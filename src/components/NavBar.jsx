@@ -4,7 +4,6 @@ import Navbar from 'react-bootstrap/Navbar';
 import { useState, useEffect } from "react";
 import Logo from '../assets/github.svg';
 import Logo2 from '../assets/linkedin.svg';
-import { HashLink } from 'react-router-hash-link';
 
 
 
