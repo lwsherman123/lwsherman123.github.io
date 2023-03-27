@@ -1,5 +1,5 @@
 {
-  "homepage": "https://lwsherman123.github.io",
+  "homepage": "https://lwsherman123.github.io/lwsherman123.github.io",
   "name": "lwsherman123.github.io",
   "version": "0.1.0",
   "private": true,
@@ -29,15 +29,10 @@
   },
   "scripts": {
     "start": "react-scripts start",
-  
-   "build": "react-scripts build",
+    "build": "react-scripts build",
     "predeploy": "yarn run build",
- 
-    "deploy": "gh-pages -b master -d build",  
-    "test": "react-scripts test",
- 
     "deploy": "gh-pages -b master -d build",
- 
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
