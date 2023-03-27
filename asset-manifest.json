@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/lwsherman123.github.io/static/css/main.c779df58.css",
+    "main.js": "/lwsherman123.github.io/static/js/main.0e3f008a.js",
+    "static/js/787.e3dd5b65.chunk.js": "/lwsherman123.github.io/static/js/787.e3dd5b65.chunk.js",
+    "static/media/revicons.eot": "/lwsherman123.github.io/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/lwsherman123.github.io/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/ruby-svgrepo-com.svg": "/lwsherman123.github.io/static/media/ruby-svgrepo-com.9f7d96b6408a011abd1477050bc77a09.svg",
+    "static/media/revicons.woff": "/lwsherman123.github.io/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/rails-svgrepo-com.svg": "/lwsherman123.github.io/static/media/rails-svgrepo-com.0a90bb86b156e040cc366eec3ef251fc.svg",
+    "static/media/react-svgrepo-com.svg": "/lwsherman123.github.io/static/media/react-svgrepo-com.f57b349b4d9df56c9b48c916a8d5adfb.svg",
+    "static/media/sql-svgrepo-com.svg": "/lwsherman123.github.io/static/media/sql-svgrepo-com.9455f2f2bd26c88b5bb39d584a085d3d.svg",
+    "static/media/github.svg": "/lwsherman123.github.io/static/media/github.0955b3e7abe0e564670f31ccaba1ae94.svg",
+    "index.html": "/lwsherman123.github.io/index.html",
+    "static/media/javascript-svgrepo-com.svg": "/lwsherman123.github.io/static/media/javascript-svgrepo-com.7bb08cdbe94fc2dfc1b51be8c2dae551.svg",
+    "static/media/css-3-svgrepo-com.svg": "/lwsherman123.github.io/static/media/css-3-svgrepo-com.315b8fdb9dbf75ae965b80bf368895cd.svg",
+    "static/media/html-5-svgrepo-com.svg": "/lwsherman123.github.io/static/media/html-5-svgrepo-com.0107c93943a8f415b5db64ebb0a9d12d.svg",
+    "static/media/linkedin.svg": "/lwsherman123.github.io/static/media/linkedin.a05a7c44218fdda742138a8d830e8ca5.svg",
+    "main.c779df58.css.map": "/lwsherman123.github.io/static/css/main.c779df58.css.map",
+    "main.0e3f008a.js.map": "/lwsherman123.github.io/static/js/main.0e3f008a.js.map",
+    "787.e3dd5b65.chunk.js.map": "/lwsherman123.github.io/static/js/787.e3dd5b65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c779df58.css",
+    "static/js/main.0e3f008a.js"
+  ]
+}
