@@ -1,0 +1,76 @@
+
+.projectdesc{
+    border-radius:64px;
+    text-align:center;
+    padding:50px;
+  }
+
+  .projectdesc h2 {
+    font-size: 20px;
+    font-weight:700;
+  }
+  
+  #project {
+    padding: 64px 0;
+  }
+
+  .project-img{
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  .project-title {
+    margin-top: 0;
+    font-size: 2.5rem;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .project-description {
+    font-size: 1.1rem;
+    line-height: 1.5;
+    margin-bottom: 32px;
+  }
+  
+  .project-skills{
+    display:flex;
+    margin-top:20px;
+    margin-bottom:20px;
+
+  }
+
+  .project-skill{
+    margin-right:20px;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 85%);
+    padding:8px;
+    border-radius:10px;
+    font-weight:600;
+  }
+
+  .project-links{
+    display:flex;
+    padding:10px;
+  }
+
+  .project-links a {
+    margin:10px;
+  }
+
+  .project-links a img {
+    max-width:30px;
+  }
+  
+  @media (max-width: 767px) {
+    .project-title {
+      font-size: 2rem;
+    }
+  
+    .project-description {
+      font-size: 1rem;
+    }
+  
+    .project-details {
+      font-size: 1rem;
+    }
+  }

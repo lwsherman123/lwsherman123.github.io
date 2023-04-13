@@ -8,6 +8,7 @@ import skill4 from '../assets/rails-svgrepo-com.svg';
 import skill5 from '../assets/react-svgrepo-com.svg';
 import skill6 from '../assets/ruby-svgrepo-com.svg';
 import skill7 from '../assets/sql-svgrepo-com.svg';
+import '../styles/Skills.css';
 
 
 const Skills = () => {

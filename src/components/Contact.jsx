@@ -1,6 +1,7 @@
 import React, { useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
 import { Col, Container } from 'react-bootstrap';
+import '../styles/Contact.css'
 
 const Contact = () => {
     const ref = useRef()
