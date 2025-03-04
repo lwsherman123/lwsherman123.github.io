@@ -8,7 +8,7 @@ import '../styles/Banner.css'
 const Banner = () => {
   const [loopNum, setLoopNum] = useState(0);
   const [isDeleting, setIsDeleting] = useState(false);
-  const toRotate = [ "Web Developer", "Software Engineer", "Full-Stack Developer"]
+  const toRotate = [ "AI Engineer", "Data Engineer", "Full-Stack Developer"]
   const [text, setText] = useState('');
   const [delta, setDelta] = useState(200 - Math.random() * 100);
   const period = 1000;
